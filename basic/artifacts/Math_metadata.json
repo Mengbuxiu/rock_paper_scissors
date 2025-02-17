@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"basic/Divergence.sol": "Math"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"basic/Divergence.sol": {
+			"keccak256": "0x3208590e615a516f767b52dfa6336f9f7dd8b5cbb8100114252af72a45146e73",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://63018b542472191ad14e3c18a68aca973e66d5a4b0843d08dcc45f777d949bc8",
+				"dweb:/ipfs/QmWYphCQf6m89DskrnEwb6Rik8N3Z3JSTRSuBeeNAQvzU7"
+			]
+		}
+	},
+	"version": 1
+}
